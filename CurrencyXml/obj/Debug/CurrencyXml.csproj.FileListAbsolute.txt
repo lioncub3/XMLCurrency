@@ -1,0 +1,17 @@
+C:\Users\lioncub3\source\repos\CurrencyXml\CurrencyXml\bin\Debug\CurrencyXml.exe.config
+C:\Users\lioncub3\source\repos\CurrencyXml\CurrencyXml\bin\Debug\CurrencyXml.exe
+C:\Users\lioncub3\source\repos\CurrencyXml\CurrencyXml\bin\Debug\CurrencyXml.pdb
+C:\Users\lioncub3\source\repos\CurrencyXml\CurrencyXml\obj\Debug\CurrencyXml.csprojAssemblyReference.cache
+C:\Users\lioncub3\source\repos\CurrencyXml\CurrencyXml\obj\Debug\CurrencyXml.csproj.CoreCompileInputs.cache
+C:\Users\lioncub3\source\repos\CurrencyXml\CurrencyXml\obj\Debug\CurrencyXml.exe
+C:\Users\lioncub3\source\repos\CurrencyXml\CurrencyXml\obj\Debug\CurrencyXml.pdb
+C:\Users\lioncub3\source\repos\CurrencyXml\CurrencyXml\bin\Debug\Microsoft.Azure.ConfigurationManager.dll
+C:\Users\lioncub3\source\repos\CurrencyXml\CurrencyXml\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\lioncub3\source\repos\CurrencyXml\CurrencyXml\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\lioncub3\source\repos\CurrencyXml\CurrencyXml\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lioncub3\source\repos\CurrencyXml\CurrencyXml\bin\Debug\Microsoft.Azure.ConfigurationManager.xml
+C:\Users\lioncub3\source\repos\CurrencyXml\CurrencyXml\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\lioncub3\source\repos\CurrencyXml\CurrencyXml\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\lioncub3\source\repos\CurrencyXml\CurrencyXml\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\lioncub3\source\repos\CurrencyXml\CurrencyXml\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lioncub3\source\repos\CurrencyXml\CurrencyXml\obj\Debug\CurrencyXml.csproj.CopyComplete
